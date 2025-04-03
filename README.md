@@ -21,7 +21,7 @@ This is a full-stack MERN application that manages the basic information of empl
 Clone the project
 
 ```bash
-  git clone https://github.com/doananhtingithub40102/mern-app.git
+  git clone https://github.com/Ala-eddin-bosri/mern-docker-swarm.git
 ```
 
 Go to the project directory
